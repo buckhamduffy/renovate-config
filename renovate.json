@@ -1,0 +1,11 @@
+{
+  "forkMode": true,
+  "baseBranches": [
+	"staging"
+  ],
+  "extends": [
+	"config:base",
+	"group:all",
+	":disableMajorUpdates"
+  ]
+}
