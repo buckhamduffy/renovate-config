@@ -3,6 +3,7 @@
   "baseBranches": [
 	"staging"
   ],
+  "labels": ["dependencies"],
   "extends": [
 	"config:base",
 	"group:all",
