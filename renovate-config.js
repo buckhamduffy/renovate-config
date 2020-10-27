@@ -18,7 +18,7 @@ module.exports = {
         'buckhamduffy/abdom-jobs-portal',
         'buckhamduffy/aimss-splash',
         'buckhamduffy/bdo-tasking-portal',
-        'buckhamduffy/aimss-webapp',
+//         'buckhamduffy/aimss-webapp',
         'buckhamduffy/ycapital',
         'buckhamduffy/edocs',
         'buckhamduffy/ycapital',
