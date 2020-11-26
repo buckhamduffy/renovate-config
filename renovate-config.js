@@ -25,6 +25,11 @@ module.exports = {
         'buckhamduffy/arta-v2',
         'buckhamduffy/synapse',
         'buckhamduffy/synapse-electron',
-        'buckhamduffy/docker-php-nginx'
+        'buckhamduffy/docker-php-nginx',
+        'buckhamduffy/bd-project-utilities',
+        'buckhamduffy/rfds-webapp',
+        'buckhamduffy/internal-kubernetes-cluster-tf',
+        'buckhamduffy/abdom-app',
+        'buckhamduffy/docker-laravel-dusk'
     ]
   };
