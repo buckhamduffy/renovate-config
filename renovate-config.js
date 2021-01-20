@@ -16,9 +16,7 @@ module.exports = {
     },
     repositories: [
         'buckhamduffy/abdom-jobs-portal',
-        'buckhamduffy/aimss-splash',
         'buckhamduffy/bdo-tasking-portal',
-//         'buckhamduffy/aimss-webapp',
         'buckhamduffy/ycapital',
         'buckhamduffy/edocs',
         'buckhamduffy/ycapital',
@@ -28,8 +26,6 @@ module.exports = {
         'buckhamduffy/docker-php-nginx',
         'buckhamduffy/bd-project-utilities',
         'buckhamduffy/rfds-webapp',
-        'buckhamduffy/internal-kubernetes-cluster-tf',
-        'buckhamduffy/abdom-app',
         'buckhamduffy/docker-laravel-dusk'
     ]
   };
